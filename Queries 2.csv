@@ -1,0 +1,16 @@
+Residential Type,No. of Prop,Avg Sale,,,,
+Single Family,476575,"$408,406.34",,,,
+Not Applicable,393500,"$448,484.94",,,Row Labels,Sum of Sale Amount
+Condo,127947,"$278,621.87",,,Not Available,"$157,291,411,416.78"
+Two Family,32396,"$216,349.49",,,Single Family,"$154,468,626,065.10"
+Three Family,15416,"$214,471.88",,,Residential,"$51,676,906,063.59"
+Four Family,2741,"$328,984.35",,,Condo,"$27,244,266,576.57"
+,,,,,Apartments,"$7,964,400,643.00"
+,,,,,Commercial,"$7,367,622,199.03"
+,,,,,Two Family,"$5,205,476,955.81"
+,,,,,Vacant Land,"$2,661,290,561.86"
+,,,,,Three Family,"$2,236,899,851.00"
+,,,,,Industrial,"$1,192,171,162.00"
+,,,,,Four Family,"$669,812,914.00"
+,,,,,Public Utility,"$1,926,044.00"
+,,,,,Grand Total,"$417,980,810,452.74"
